@@ -1,4 +1,4 @@
-# Compose extensions (preview)
+# Preview: Get started with compose extensions for Microsoft Teams
 
 >**Important:** Compose extensions are available only in [Public Developer Preview](publicpreview.md). Many details in this document are subject to change.
 >
