@@ -58,4 +58,32 @@ We'll be rolling out extensibility features for developers to try before they ro
 
 This is an optional feature and is not required for app development.
 
+## What's next?
+
+With those steps out of the way, you're ready to focus on creating your app.
+
+### Build your app's rich capabilities
+
+* [Learn about scopes](teamsapps.md)
+* [Design your app](design.md)
+* [Code](code.md) your app's capabilities
+  * [Tabs](tabs.md)
+  * [Bots](bots.md)
+  * [Connectors](connectors.md)
+  * [Compose extensions](composeextensions.md)
+  * [Activity feed integrations](activityfeed.md)
+
+### Package and test your app within Teams
+
+* [Create package](createpackage.md)
+* [Sideload](sideload.md) in Teams
+* [Test functionality](debugging.md)
+
+### Publish your app and drive engagement
+
+* [Register and publish](submission.md) to Office Store
+* Embed deep links on your website
+
+---
+
 > Running into problems? See the [troubleshooting guide](troubleshooting.md).
