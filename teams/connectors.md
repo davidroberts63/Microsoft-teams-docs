@@ -137,7 +137,7 @@ To distribute your Connector, you need to register by using the [Connectors Deve
 
 >**Note:** Before your Connector can receive callbacks for actionable messages, you must register it *and* publish the app.
 
-<img alt="Screenshot of enabling the Connector for Microsoft Teams" src="images/Connectors/connector_developer_portal.png" height="185" width="336">
+<img alt="Screenshot of enabling the Connector for Microsoft Teams" src="images/Connectors/connectors-developer-dashboard.png" height="185" width="336">
 
 You can download the auto-generated Teams app manifest from the portal. The following manifest.json file contains the basic elements needed to test and submit your app.
 
@@ -199,4 +199,4 @@ To verify that an `HttpPOST` action is working correctly, use your [custom incom
 
 >**Note:** Currently, we do not support users configuring your Connector externally via the **Connect to Office 365** button. Users must visit Microsoft Teams first to add a Connector.
 
-When your app is ready for submission, follow the process for [submitting your app to the Office Store](https://msdn.microsoft.com/en-us/microsoft-teams/submission).
+When your app is ready for submission, follow the process to [publish your app to the Office Store](https://msdn.microsoft.com/en-us/microsoft-teams/submission).
