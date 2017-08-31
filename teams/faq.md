@@ -4,19 +4,21 @@
 
 ### What technology should I use to build my bot or tab?
 
-Because tabs are web content that you build and deploy, you can use any technology you want.  
+Tabs are web content that you build and deploy, so you can use any technology you want.  
 
-As bots must be built with the Bot Framework, we recommend you use one of the languages supported by the SDKs provided by the framework:  .NET/C# or Node.js. Although the Bot Framework also provides REST APIs usable by any language you choose, the SDKs provide additional functionality and helper functions to make the development process easier.
+Because bots must be built with the Bot Framework, we recommend you use one of the languages supported by the Bot Builder SDK: .NET/C# or Node.js. Although the Bot Framework also provides REST APIs usable by any language you choose, the SDK provides additional functionality and helper functions to simplify the development process.
+
+We also provide Teams-specific .NET and Node.js [extensions for the Bot Builder SDK](code.md#microsoft-teams-extensions-for-the-bot-builder-sdk) to make integration with the Teams platform even easier.
 
 ### Where do I sign up to start building Teams apps?
 
-There are no prerequisites or additional development accounts to start building apps for Microsoft Teams. Although you must have access to Microsoft Teams via an Office 365 subscription, no other sign-up or program access is required. You do need to create accounts for the Bot Framework if you build a bot and create a Dev Center account if you submit your app for publication.
+No prerequisites or additional development accounts are needed to start building apps for Microsoft Teams. Although you must have access to Microsoft Teams via an Office 365 subscription, no other sign-up or program access is required. You do need to create accounts for the Bot Framework if you build a bot and create a Dev Center account if you submit your app for publication.
 
 ## Bots
 
 ### How can my bot access or listen to all messages in a channel?
 
-Bots in channels only receive messages when they are explicitly @mentioned. There is no way to grant your bot access to conversations in which they are not mentioned.
+Bots in channels receive messages only when they are explicitly @mentioned. There is no way to grant your bot access to conversations in which they are not mentioned.
 
 ## Distribution
 
